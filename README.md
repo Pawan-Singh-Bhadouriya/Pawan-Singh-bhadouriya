@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pawan Singh Bhadouriya</h1>
 <h3 align="center">A passionate MERN Stack developer from India</h3>
-<img src="./avatar.png.webp" alt="avatar png" height=400px width=400px/>
+<img src="./avatar.png.webp" alt="avatar png" height="400" width=auto/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pawan-singh-bhadouriya&label=Profile%20views&color=0e75b6&style=flat" alt="pawan-singh-bhadouriya" /> </p>
 
